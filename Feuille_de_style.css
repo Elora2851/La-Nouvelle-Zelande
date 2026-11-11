@@ -3,11 +3,11 @@
   <link rel="stylesheet" href="Feuille_de_style.css" />
 /* TEXTE */
 p{color:#FFFFFF;}
-h1{color:#00FF00;}
+h1{color:#000080;}
 /* COULEURS */
 body {color: #304177;} /*couleur de la page
 background: #FFFACD;/*COULEUR FOND*/
-a {color: #333333;}/* couleur des liens*/
+a {color: #FFA500;}/* couleur des liens*/
 a:hover, a:focus {color: #FF4C00;}/couleur des liens survolés et du focus*/
 </head>
 </html>
