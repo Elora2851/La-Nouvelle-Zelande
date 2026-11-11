@@ -3,6 +3,7 @@
 <body style="background-image: url('Fond.jpg'); background-size: cover; background-repeat: no-repeat;">
 </body>
   <head>
+     <link rel="stylesheet" href="Feuille_de_style.css" />
     <h1><mark>Un pays attractif</mark></h1>
   </head>
   <body>
